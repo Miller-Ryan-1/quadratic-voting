@@ -1,0 +1,7 @@
+env.py
+__pycache__
+.DS_Store
+.ipynb_checkpoints/
+Folder_Archive
+In_Progress
+Support_Files
