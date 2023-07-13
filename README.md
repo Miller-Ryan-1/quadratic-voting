@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project introduces a method to calculate the optimal number of Quadratic Voting (QV) credits (C) to issue to voters in a QV vote, based on the number of distinct items (N) they are voting on. The goal is to identify the most general form of  𝐶𝑁=𝑓(𝑁), i.e., given a quadratic ballot with N choices, how many voting credits should each voter receive?
+This project is an investigation into determining the optimal number of Quadratic Voting (QV) credits (C) to issue to voters in a QV vote, based on the number of distinct items (N) they are voting on. The goal is to identify the most general form of  𝐶𝑁=𝑓(𝑁), i.e., given a quadratic ballot with N choices, how many voting credits should each voter receive?
 
 ## Files
 
